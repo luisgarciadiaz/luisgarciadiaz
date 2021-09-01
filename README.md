@@ -8,9 +8,9 @@
 
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other content creators/developers
 - 🥅 2020 Goals: Contribute more to Open Source projects and to read 80 books
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love dogs, i have 3 of them
 
 ### Connect with me:
 
