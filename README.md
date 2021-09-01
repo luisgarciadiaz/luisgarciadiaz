@@ -22,24 +22,6 @@
 
 <br />
 
-### Ultimos post:
-
-
-<!-- BLOG-POST-LIST:START -->
-- [Transparencia y la mejora regulatoria](https://virreysoft.com/2021/08/04/transparencia-y-la-mejora-regulatoria/)
-- [Cuanto cuesta un estudio de Mejora regulatoria](https://virreysoft.com/2021/07/20/cuanto-cuesta-un-estudio-de-mejora-regulatoria/)
-- [¿Ahorros con mejora regulatoria?](https://virreysoft.com/2021/07/08/ahorros-con-mejora-regulatoria/)
-- [¿Qué es el dictamen único de factibilidad (DUF)?](https://virreysoft.com/2021/06/18/que-es-el-dictamen-unico-de-factibilidad-duf/)
-- [Servicios Buenos:SMS masivos](https://virreysoft.com/2021/05/29/servicios-buenossms-masivos/)
-<!-- BLOG-POST-LIST:END -->
-<br />
-
-### Ultimos post en video:
-
-
-<!-- youtube:START -->
-<!-- youtube:END  -->
-<br />
 
 ### Languages and Tools:
 
@@ -63,7 +45,30 @@
 <br />
 <br />
 
+### Ultimos post:
+
+
+<!-- BLOG-POST-LIST:START -->
+- [Transparencia y la mejora regulatoria](https://virreysoft.com/2021/08/04/transparencia-y-la-mejora-regulatoria/)
+- [Cuanto cuesta un estudio de Mejora regulatoria](https://virreysoft.com/2021/07/20/cuanto-cuesta-un-estudio-de-mejora-regulatoria/)
+- [¿Ahorros con mejora regulatoria?](https://virreysoft.com/2021/07/08/ahorros-con-mejora-regulatoria/)
+- [¿Qué es el dictamen único de factibilidad (DUF)?](https://virreysoft.com/2021/06/18/que-es-el-dictamen-unico-de-factibilidad-duf/)
+- [Servicios Buenos:SMS masivos](https://virreysoft.com/2021/05/29/servicios-buenossms-masivos/)
+<!-- BLOG-POST-LIST:END -->
+<br />
+
+### Ultimos post en video:
+
+
+<!-- youtube:START -->
+<!-- youtube:END  -->
+<br />
+-------
+
+### GITHUB STATS
+
 ---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisgarciadiaz)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
