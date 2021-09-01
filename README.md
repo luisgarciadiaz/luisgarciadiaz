@@ -38,7 +38,6 @@
 
 
 <!-- YOUTUBE:START -->
-
 <!-- YOUTUBE:END -->
 <br />
 
