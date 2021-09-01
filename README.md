@@ -38,6 +38,11 @@
 
 
 <!-- youtube:START -->
+- [Rancho las 4 yeguas](https://www.youtube.com/watch?v=gywbRcbH2vo)
+- [Legend of mana inicio](https://www.youtube.com/watch?v=w_UiP6KqcIU)
+- [Tipos de libros y estilos de encuadernaciones  Escuela Online de Encuadernación de Eduardo Tarrico](https://www.youtube.com/watch?v=7K29RkDH8u0)
+- [Escuela Online de Encuadernación Artística de Eduardo Tarrico  Bienvenid s](https://www.youtube.com/watch?v=2jzhn3BzqEA)
+- [Taller en línea para bibliotecarios Fomento a la lectura](https://www.youtube.com/watch?v=LlNqEUGCYAE)
 <!-- youtube:END  -->
 <br />
 
