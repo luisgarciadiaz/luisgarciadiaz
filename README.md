@@ -1,16 +1,14 @@
 ### Hi there 👋
 ## Hi there, I'm Luis García Díaz - aka [zethes][website] 👋
 
-[![Website](https://img.shields.io/website?label=virreysoft.com&style=for-the-badge&url=https%3A%2F%2F.virreysoft.com)](https://virreysoft.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Luis_Garciadiaz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F&screen_name=Luis_Garciadiaz)
 
 ## I'm a Developer
 
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently on book reading spree🤣
 - 👯 I’m looking to collaborate with other content creators/developers
-- 🥅 2020 Goals: Contribute more to Open Source projects and to read 80 books
-- ⚡ Fun fact: I love dogs, i have 3 of them
+- ⚡ Fun fact: I love dogs, i have 4 of them
 
 ### Connect with me:
 
