@@ -43,17 +43,6 @@
 <br />
 <br />
 
-### Ultimos post:
-
-
-<!-- BLOG-POST-LIST:START -->
-- [Ley de gobierno digital michoacan 2021](https://virreysoft.com/2021/12/08/ley-de-gobierno-digital-michoacan-2021/)
-- [Transparencia y la mejora regulatoria](https://virreysoft.com/2021/11/29/transparencia-y-la-mejora-regulatoria/)
-- [Cuanto cuesta un estudio de Mejora regulatoria](https://virreysoft.com/2021/07/20/cuanto-cuesta-un-estudio-de-mejora-regulatoria/)
-- [¿Ahorros con mejora regulatoria?](https://virreysoft.com/2021/07/08/ahorros-con-mejora-regulatoria/)
-- [¿Qué es el dictamen único de factibilidad &lpar;DUF&rpar;?](https://virreysoft.com/2021/06/18/que-es-el-dictamen-unico-de-factibilidad-duf/)
-<!-- BLOG-POST-LIST:END -->
-<br />
 
 ### Ultimos post en video:
 
