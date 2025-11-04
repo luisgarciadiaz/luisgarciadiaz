@@ -52,12 +52,6 @@
 <br />
 -------
 
-### GITHUB STATS
-
----
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisgarciadiaz)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 [website]: http://virreysoft.com/
 [twitter]: https://twitter.com/Luis_Garciadiaz
